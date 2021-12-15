@@ -1,5 +1,4 @@
-Interactive web page
-    Name: Title creator web page.  
+    Title creator web page.  
 
     Description: The user adds information to the page and clicks "Next" to create a title.
 
